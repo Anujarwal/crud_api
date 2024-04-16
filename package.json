@@ -4,8 +4,8 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "node Backend/server.js",
-    "dev": "nodemon Backend/server.js"
+    "start": "node BackEnd/server.js",
+    "dev": "nodemon BackEnd/server.js"
   },
   "author": "Anuj Jarwal",
   "license": "ISC",
